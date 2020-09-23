@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fazt-angular"
+    }
+  },
+  "defaultProject": "fazt-angular",
+  "cli": {
+    "analytics": false
+  }
 }
